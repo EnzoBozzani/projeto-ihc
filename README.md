@@ -35,8 +35,12 @@ Ao oferecer interfaces para o gerenciamento dessas entidades, o webapp permite q
 
 ## Publico Alvo
 
-- Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado.
-- Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
+- **Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado**: O grupo específico de pessoas ou organizações para as quais o produto é direcionado são empresas e equipes corporativas que desejam incorporar fluxos multiagentes em seus processos de negócio sem a necessidade de desenvolver código. Além disso, embora o foco principal seja o ambiente corporativo, a aplicação também pode atender profissionais individuais, pesquisadores e desenvolvedores não técnicos interessados em criar fluxos de agentes de maneira prática
+- **Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.**
+    - **Demografica**: Empresas de médio e pequeno porte e desenvolvedores que dispõem de quantidade limitada de recursos físicos e intelectuais
+    - **Comportamentais**: Interesse em fluxo multi agentes para automatização de tarefas; Ferramentas que não necessitam de conhecimentos técnicos profundos
+    - **Psicográficas**: Interesse em explorar a inteligência artificial de forma prática e acessível, sem barreiras técnicas de programação.
+    - **Geográficas**: Inicialmente mais atrativa em centros urbanos com grande fluxo corporativo, como São Paulo, Rio de Janeiro, Belo Horizonte   
 
 ## Análise de concorrência
 

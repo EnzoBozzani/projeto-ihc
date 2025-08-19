@@ -78,10 +78,20 @@ Ao oferecer interfaces para o gerenciamento dessas entidades, o webapp permite q
 
 ## Contexto de uso
 
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
-- Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
-- Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
-- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
+- **Descreva o ambiente em que o serviço ou poduto deve ser utilizado**: O webapp será utilizado em ambientes corporativos e profissionais, normalmente em escritórios ou home offices, onde os usuários têm acesso a dispositivos com navegador de internet (computadores, notebooks ou dispositivos móveis). Como os modelos são executados em infraestrutura própria da aplicação, não há necessidade de hardware avançado por parte do usuário. O ambiente, portanto, é digital, conectado à internet e voltado para atividades de gestão e automação de processos empresariais.
+- **Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?**
+  - Sociais: O uso está inserido em um ambiente de trabalho colaborativo, onde equipes e empresas buscam automatizar tarefas e melhorar a produtividade sem precisar de conhecimento técnico avançado em programação.
+  - Econômicos: O foco é em empresas de pequeno e médio porte que precisam de soluções acessíveis, já que grandes LLMs demandam alto custo computacional. A aplicação busca justamente atender esse nicho com modelos menores, mais baratos e eficientes.
+  - Culturais: Inserido no contexto atual de adoção crescente de IA e agentes inteligentes, em que existe interesse em experimentar e integrar fluxos multiagentes em diferentes áreas, mas também a necessidade de abstrair a complexidade técnica para que profissionais não técnicos consigam utilizar a ferramenta. 
+- **Quais informações sobre o ambiente, o serviço ou produto deve guardar antes de iniciar a interação?** Antes de iniciar a interação, o sistema deve considerar e/ou armazenar informações como:
+  - Perfil do usuário (e-mail e senha).
+  - Experiência anterior do usuário na plataforma (fluxos, agentes e recursos criados pelo usuário, se existentes).
+  - Limites de uso contratados (de acordo com o plano de inscrição do usuário na plataforma).
+- **O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou produto?** Quando o usuário acessar a aplicação, normalmente:
+  - Ele estará em um ambiente de trabalho (empresa ou home office), provavelmente em horário de expediente.
+  - Já estará envolvido em tarefas administrativas, de análise de dados ou automação de processos.
+  - O contexto imediato será a necessidade de criar ou editar fluxos de agentes para automatizar tarefas que envolvem documentos, comunicação ou integração com dados.
+  - O ambiente digital deverá estar estável: acesso à internet, dispositivo disponível e atenção voltada ao planejamento e execução de processos de negócio.
 
 ## Jornada do usuário
 

@@ -4,7 +4,7 @@ Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), 
 
 Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **PESQUISA E IMPLEMENTAÇÃO DE PLATAFORMA PARA CRIAÇÃO DE FLUXOS MULTI-AGENT** sob orientação do Professor **Prof. Dr. Flavio Tonidandel** e desenvolvido pelos seguintes alunos:
 
--   Adriel Henrique Foppa Lima - 24.122.096-1
+-   Adriel Henrique Foppa Lima - 22.225.036-7
 -   Alan Mantelatto Mlatisuma - 22.125.092-1
 -   Enzo Bozzani Martins - 24.122.020-1
 -   Igor Augusto Fiorini Rossi - 22.225.021-9

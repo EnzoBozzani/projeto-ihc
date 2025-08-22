@@ -54,16 +54,91 @@ Ao oferecer interfaces para o gerenciamento dessas entidades, o webapp permite q
 8. Elabore relatórios e sumarize os resultados.
 9. Extraia pontos positivos e faça recomendações.
 
-### Personas
+## Personas
 
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
+### Persona Primária – Mariana Lopes  
 
-  - Persona primaira ...
-  - Persona secundária ...
-  - Outras personas ...
+**Status:** Persona Primária  
 
-### Mapa de empatia
+- **Idade:** 34 anos  
+- **Ocupação:** Gerente de Operações em uma empresa de tecnologia financeira (fintech)  
+- **Formação:** Administração com MBA em Gestão de Processos  
+- **Habilidades:**  
+  - Usuária avançada de ferramentas de produtividade (Excel, Power BI, plataformas SaaS).  
+  - Não possui conhecimento em programação, mas tem facilidade em aprender ferramentas visuais intuitivas.  
+
+**Tarefas Principais:**  
+- Criar fluxos de automação para processos internos (ex: atendimento ao cliente, integração entre sistemas internos e externos).  
+- Monitorar métricas de desempenho de processos.  
+- Coordenar equipe para que use a plataforma no dia a dia.  
+
+**Objetivos:**  
+- Reduzir custos e tempo em tarefas repetitivas.  
+- Aumentar a eficiência dos times sem depender de desenvolvedores.  
+- Garantir que os fluxos multiagentes sejam configurados de forma clara e reaproveitável.  
+
+**Expectativas:**  
+- Que a plataforma seja **no-code**, visual, com interface intuitiva (drag-and-drop).  
+- Segurança dos dados corporativos.  
+- Documentação simples para rápida adoção pela equipe.  
+
+**Frustrações:**  
+- Soluções muito técnicas que exigem programação.  
+- Plataformas engessadas que não permitem personalização.  
+
+
+### Persona Secundária – Rafael Moreira  
+
+**Status:** Persona Secundária  
+
+- **Idade:** 28 anos  
+- **Ocupação:** Pesquisador em Inteligência Artificial em uma universidade pública  
+- **Formação:** Mestrado em Ciência da Computação (linha de pesquisa: sistemas multiagentes)  
+- **Habilidades:**  
+  - Familiaridade com conceitos de agentes inteligentes e modelos de IA.  
+  - Conhecimento técnico médio (Python, R), mas busca ferramentas que acelerem experimentos.  
+
+**Tarefas Principais:**  
+- Criar e testar protótipos de fluxos multiagentes para validar hipóteses acadêmicas.  
+- Explorar integrações rápidas sem gastar muito tempo codificando.  
+- Publicar resultados de experimentos em artigos e conferências.  
+
+**Objetivos:**  
+- Montar rapidamente protótipos para testes de modelos.  
+- Comparar diferentes fluxos de agentes em pouco tempo.  
+- Ter flexibilidade para adaptar a ferramenta a novos cenários de pesquisa.  
+
+**Expectativas:**  
+- Interface flexível, mas sem perder o rigor técnico.  
+- Possibilidade de exportar resultados de forma clara (gráficos, logs, relatórios).  
+- Colaboração com outros pesquisadores sem barreiras de instalação.  
+
+**Frustrações:**  
+- Ferramentas fechadas que não permitem customização.  
+- Necessidade de gastar muito tempo configurando ambientes de teste.  
+
+### Persona Negativa – Rafael Lima  
+
+**Status:** Persona Negativa (não público-alvo)  
+
+- **Idade:** 19 anos  
+- **Ocupação:** Estudante de curso técnico em outra área (não tecnologia)  
+- **Habilidades:** Usa apenas redes sociais, baixo interesse em plataformas acadêmicas.  
+
+**Tarefas:**  
+- Não utiliza sistemas de apoio ao aprendizado além do mínimo obrigatório.  
+
+**Objetivos:**  
+- Acessar rapidamente uma atividade apenas quando exigido.  
+
+**Expectativas:**  
+- Pouco envolvimento.  
+
+**Frustração:**  
+- Qualquer plataforma que exija esforço além do básico.  
+
+
+## Mapa de empatia
 
 ![Mapa de empatia](empatia.png)
 

@@ -44,10 +44,6 @@ Ao oferecer interfaces para o gerenciamento dessas entidades, o webapp permite q
 
 ## Análise de concorrência
 
-<img width="4800" height="2276" alt="AutoGPT" src="https://github.com/user-attachments/assets/f38178dc-5054-44e5-af2e-88e993b895af" />
-<img width="1666" height="966" alt="Agentverse" src="https://github.com/user-attachments/assets/81277c6e-c022-4b64-b609-616ba4885380" />
-
-
 - **Principais concorrentes ou softwares mais utilizados pelo seu público-alvo:**
    - AutoGPT
    - LangChain
@@ -58,9 +54,16 @@ Ao oferecer interfaces para o gerenciamento dessas entidades, o webapp permite q
     - LangChain é um framework modular altamente integrado e versátil, com suporte a workflows complexos, agentes dinâmicos, memória e ampla interconectividade com ferramentas e fontes de dados. Possui soluções complementares como observabilidade (LangSmith) e orquestração avançada (LangGraph), além de forte adoção e comunidade ativa.
     - AgentVerse oferece uma abordagem robusta e estruturada para sistemas multi-agentes, tanto para resolução colaborativa de tarefas quanto para simulações comportamentais. É extensível, performático, escrito em Python, e ideal para estudos de emergências comportamentais em ambientes controlados.
 
-- **Experiência do usuário (UX):**
+- **Experiência do usuário (UX):**  
+<br>
+  <img width="500" height="350" alt="AutoGPT" src="https://github.com/user-attachments/assets/f38178dc-5054-44e5-af2e-88e993b895af" />
+<br>
     - AutoGPT: Oferece poder de automação impressionante, mas a experiência de uso é pouco intuitiva; exige configuração técnica e acompanhamento para evitar erros.
     - LangChain: Muito flexível e poderoso, mas pensado para desenvolvedores; a experiência é complexa e requer conhecimento técnico, sem foco em usuários leigos.
+<br>
+  
+  <img width="500" height="400" alt="Agentverse" src="https://github.com/user-attachments/assets/81277c6e-c022-4b64-b609-616ba4885380" />
+<br>
     - AgentVerse: Voltado para pesquisa e simulação, é robusto, mas a UX ainda é técnica e pouco amigável para usuários não especializados.
 
 - **Modelos de negócio / Preços:**

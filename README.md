@@ -197,10 +197,37 @@ Ao oferecer interfaces para o gerenciamento dessas entidades, o webapp permite q
 
 ## Jornada do usuário
 
-- Criar uma narrativa para o o seu serviço ou poduto com o usuário.
-- Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
-  - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
+Era fim de tarde, e depois de um dia exaustivo de análise de planilhas a fim de identificar movimentos financeiros da empresa em qual trabalha, uma colega comentou sobre uma nova ferramenta que aumentou sua produtividade e diminuiu o cansaço, a partir de fluxos de IA.
+Mariana, cansada de realizar tarefas repetitivas e manuais, pensou:
+“Será que essa é a solução que tanto procuro?”
+Curiosa, acessou o site ainda naquele dia. A proposta era clara: “automatize processos complexos de forma visual.”
+Um frio na barriga apareceu: esperança misturada com ansiedade.
+
+Na manhã seguinte, decidiu experimentar.
+Criou sua conta em poucos cliques e foi recebida por uma interface interativa: arrastar blocos, conectar linhas e criar fluxos.
+Cada passo parecia simples e natural.
+Mariana pensava: “É como montar um quebra-cabeça, mas no final quem trabalha é a máquina.”
+No mesmo dia, resolveu enfrentar um desafio prático: automatizar o relatório diário de operações.
+
+Então, selecionou a criação de fluxos:
+- adicionou um agente que buscava os dados do banco interno;
+- conectou a um agente que formatava os números em relatório;
+- ligou ao agente de e-mail para enviar automaticamente à diretoria.
+Poucos minutos depois, o relatório chegou à sua caixa de entrada.
+Ela respirou fundo e pensou: “Consegui! Economizei horas de trabalho com apenas alguns cliques.”
+A emoção foi de alívio e orgulho pessoal.
+
+No dia seguinte, em reunião, decidiu mostrar sua conquista.
+Os colegas acompanharam atentos, com explicações técnicas mínimas.
+Um deles comentou: “Isso resolve em minutos o que levamos horas para fazer.”
+Mariana compartilhou o fluxo ali mesmo, em poucos cliques.
+Sentiu-se valorizada e confiante, percebendo que tinha dado um passo importante para a modernização da equipe.
+
+Dias depois, entrou no painel de métricas.
+Viu que todos os relatórios haviam sido gerados e enviados corretamente, sem erros.
+O gráfico mostrava tempo economizado e execuções bem-sucedidas.
+Mariana pensou: “Agora posso confiar. Essa plataforma virou meu braço direito.”
+A emoção foi de segurança e tranquilidade.
 
 
 <!--

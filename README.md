@@ -44,6 +44,10 @@ Ao oferecer interfaces para o gerenciamento dessas entidades, o webapp permite q
 
 ## Análise de concorrência
 
+<img width="4800" height="2276" alt="AutoGPT" src="https://github.com/user-attachments/assets/f38178dc-5054-44e5-af2e-88e993b895af" />
+<img width="1666" height="966" alt="Agentverse" src="https://github.com/user-attachments/assets/81277c6e-c022-4b64-b609-616ba4885380" />
+
+
 - **Principais concorrentes ou softwares mais utilizados pelo seu público-alvo:**
    - AutoGPT
    - LangChain

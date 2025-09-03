@@ -123,9 +123,9 @@ Ao oferecer interfaces para o gerenciamento dessas entidades, o webapp permite q
 - Plataformas engessadas que não permitem personalização.  
 
 
-### Persona Secundária – Rafael Moreira  
+### Persona Primária – Rafael Moreira  
 
-**Status:** Persona Secundária  
+**Status:** Persona Primária  
 
 - **Idade:** 28 anos  
 - **Ocupação:** Pesquisador em Inteligência Artificial em uma universidade pública  
@@ -153,37 +153,70 @@ Ao oferecer interfaces para o gerenciamento dessas entidades, o webapp permite q
 - Ferramentas fechadas que não permitem customização.  
 - Necessidade de gastar muito tempo configurando ambientes de teste.  
 
-### Persona Negativa – Rafael Lima  
+### Persona Secundária – João Henrique  
 
-**Status:** Persona Negativa (não público-alvo)  
+**Status:** Persona Secundária (cliente externo, atendido pela automação)  
 
-- **Idade:** 19 anos  
-- **Ocupação:** Estudante de curso técnico em outra área (não tecnologia)  
-- **Habilidades:** Usa apenas redes sociais, baixo interesse em plataformas acadêmicas.  
+- **Idade:** 45 anos  
+- **Ocupação:** Empresário do setor de logística  
+- **Formação:** Ensino superior em Administração  
+- **Habilidades:** Usa tecnologia apenas de forma prática, gosta de soluções rápidas (apps de banco, WhatsApp, e-mail).  
 
-**Tarefas:**  
-- Não utiliza sistemas de apoio ao aprendizado além do mínimo obrigatório.  
+**Tarefas Principais:**  
+- Solicitar cotações de serviços da empresa.  
+- Resolver dúvidas sobre prazos, pagamentos e entregas.  
+- Receber suporte sem precisar falar com várias pessoas.  
 
 **Objetivos:**  
-- Acessar rapidamente uma atividade apenas quando exigido.  
+- Ter atendimento ágil e claro, sem burocracia.  
+- Receber informações 24/7, mesmo fora do horário comercial.  
+- Confiar que a empresa está organizada e preparada.  
 
 **Expectativas:**  
-- Pouco envolvimento.  
+- Atendimento automatizado que realmente resolva seus problemas.  
+- Comunicação rápida e sem erros.  
+- Acompanhamento de status em tempo real.  
 
-**Frustração:**  
-- Qualquer plataforma que exija esforço além do básico.  
+**Frustrações:**  
+- Ser transferido entre vários atendentes.  
+- Esperar muito tempo para receber respostas.  
+- Sistemas que não entendem suas solicitações.  
 
+
+### Persona Secundária – Patrícia Almeida  
+
+**Status:** Persona Secundária (cliente corporativo da empresa de Mariana Lopes)  
+
+- **Idade:** 39 anos  
+- **Ocupação:** Diretora de RH em uma empresa parceira  
+- **Formação:** Psicologia com MBA em Gestão de Pessoas  
+- **Habilidades:** Conhece ferramentas digitais de gestão (Trello, Slack, ERPs), mas valoriza praticidade.  
+
+**Tarefas Principais:**  
+- Solicitar relatórios de status e entregas à empresa de Mariana.  
+- Acompanhar a qualidade dos serviços prestados.  
+- Estabelecer contato rápido quando necessário.  
+
+**Objetivos:**  
+- Receber relatórios confiáveis e atualizados.  
+- Reduzir tempo gasto com burocracias no relacionamento B2B.  
+- Sentir segurança no uso da plataforma indireta.  
+
+**Expectativas:**  
+- Que os processos internos da empresa de Mariana sejam organizados e transparentes.  
+- Atendimento ágil e comunicativo, mesmo que automatizado.  
+- Confiança de que prazos serão cumpridos.  
+
+**Frustrações:**  
+- Falta de clareza nas informações recebidas.  
+- Necessidade de cobrar várias vezes pela mesma demanda.  
+- Relatórios pouco visuais e difíceis de interpretar.  
 
 ## Mapa de empatia
 
 ### Persona Primária – Mariana Lopes  
 
 <img width="3584" height="2470" alt="persona1" src="https://github.com/user-attachments/assets/12efbdc8-a6a7-40a7-8805-c99369ffd3cc" />
-
-### Persona Secundária – Rafael Moreira 
-
-<img width="3588" height="2470" alt="persona2" src="https://github.com/user-attachments/assets/0735e1d4-063b-47ab-a303-b505f412e9e3" />
-
 
 ## Contexto de uso
 

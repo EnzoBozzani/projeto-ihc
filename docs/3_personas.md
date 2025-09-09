@@ -2,6 +2,8 @@
 
 ### Persona Primária – Mariana Lopes
 
+<img width="50%" alt="ChatGPT Image 9 de set  de 2025, 17_53_58" src="https://github.com/user-attachments/assets/02f0aab2-73b5-4845-bf61-76c8d15e1e7c" />
+
 **Status:** Persona Primária
 
 -   **Idade:** 34 anos
@@ -35,6 +37,8 @@
 -   Plataformas engessadas que não permitem personalização.
 
 ### Persona Primária – Rafael Moreira
+
+<img width="50%" alt="ChatGPT Image 9 de set  de 2025, 17_54_05" src="https://github.com/user-attachments/assets/745470d7-2290-4418-8cbb-6142819c4f57" />
 
 **Status:** Persona Primária
 
@@ -70,6 +74,8 @@
 
 ### Persona Secundária – João Henrique
 
+<img width="50%" alt="ChatGPT Image 9 de set  de 2025, 17_56_12" src="https://github.com/user-attachments/assets/e068da57-6924-49a3-a635-54ac0babdf36" />
+
 **Status:** Persona Secundária (cliente externo, atendido pela automação)
 
 -   **Idade:** 45 anos
@@ -102,6 +108,8 @@
 -   Sistemas que não entendem suas solicitações.
 
 ### Persona Secundária – Patrícia Almeida
+
+<img width="50%" alt="ChatGPT Image 9 de set  de 2025, 17_58_49" src="https://github.com/user-attachments/assets/0891d691-9558-48b2-9a9e-d555be1db0a9" />
 
 **Status:** Persona Secundária (cliente corporativo da empresa de Mariana Lopes)
 

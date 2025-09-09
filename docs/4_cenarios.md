@@ -5,18 +5,25 @@
 ## 1. Cenário de Análise/Problema
 
 **Narrativa**  
-Mariana Lopes, gerente de operações em uma fintech, precisa diariamente consolidar dados financeiros vindos de diferentes sistemas internos. Normalmente, exporta planilhas de um banco de dados, copia informações de outro sistema e manualmente organiza relatórios em PowerPoint para apresentar na reunião matinal. A cada atualização, ela gasta horas repetindo processos de copiar e colar, além de conferir se os números estão corretos. Muitas vezes, prazos são comprometidos porque, ao final do dia, Mariana ainda precisa revisar manualmente o conteúdo antes de enviar aos diretores. Esse esforço repetitivo e demorado causa frustração, além de erros humanos frequentes, como informações duplicadas ou dados inconsistentes.
+Mariana Lopes, gerente de operações em uma fintech, precisa diariamente consolidar dados financeiros. Normalmente, organiza relatórios em PowerPoint para apresentar na reunião matinal. A cada atualização, ela gasta tempo considerável repetindo processos manuais, além de conferir se os números estão corretos. Muitas vezes, prazos são comprometidos porque, ao final do dia, Mariana ainda precisa revisar manualmente o conteúdo antes de enviar o relatório. Esse esforço repetitivo e demorado causa frustração, além de erros humanos frequentes.
 
 ### Questões de Refinamento
 
--   Quais tipos de relatórios Mariana precisa gerar regularmente?
--   Quais sistemas diferentes ela utiliza para coletar informações?
--   Quanto tempo, em média, é gasto diariamente nessas tarefas manuais?
--   Qual impacto desses erros nos processos de decisão da empresa?
+1-  De onde vem as informações que Mariana precisa consolidar? `Ambiente`    
+2-  Para quem Mariana precisa enviar o relatório? `Atores`  
+3-  O que Mariana busca alcançar ao final do processo de consolidação de dados? `Objetivo`  
+4-  Quais  etapas pré-definidas Mariana segue para gerar relatórios e preparar apresentações? `Planejamento`  
+5-  Quais são as tarefas manuais específicas realizadas por Mariana? `Ações`
+6-  Que tipos de situações externas ou imprevistos podem atrasar Mariana? `Eventos`  
+7-  Como Mariana verifica se a consolidação dos dados está correta? `Avaliação`  
+
 
 ### Refinamento do Cenário de Análise/Problema
 
 O problema central está na **falta de integração automatizada** entre fontes de dados e ferramentas de apresentação, o que força Mariana a perder tempo e compromete a confiabilidade das informações repassadas.
+
+**Narrativa Refinada**
+Mariana Lopes, gerente de operações em uma fintech, precisa diariamente consolidar dados financeiros vindos de diferentes sistemas internos [1] de maneira precisa e padronizada [3]. Normalmente, exporta planilhas de um banco de dados, copia informações de outro sistema e manualmente organiza relatórios em PowerPoint para apresentar na reunião matinal [4]. A cada atualização, ela gasta horas repetindo processos de copiar e colar, além de conferir se os números estão corretos [5]. Muitas vezes, prazos são comprometidos porque, ao final do dia, Mariana ainda precisa revisar manualmente o conteúdo [6], para verificar se esta correto[7] antes de enviar aos diretores [2]. Esse esforço repetitivo e demorado causa frustração, além de erros humanos frequentes, como informações duplicadas ou dados inconsistentes.
 
 ---
 

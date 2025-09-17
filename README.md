@@ -47,7 +47,7 @@ Ao oferecer interfaces para o gerenciamento dessas entidades, o webapp permite q
 -   [Análise de Concorência](docs/2_concorencia.md)
 -   [Personas](docs/3_personas.md)
 -   [Cenário de Análise/Problema](docs/4_cenarios.md)
--   [Análide de Tarefas](docs/5_analise_tarefas.md)
+-   [Análise de Tarefas](docs/5_analise_tarefas.md)
 -   [Prototipação em Papel](docs/6_prototipacao.md)
 -   [Coleta de Dados](docs/7_coleta_dados.md)
 -   [Ciclo de vida da engenharia de usabilidade](docs/8_ciclo_vida.md)

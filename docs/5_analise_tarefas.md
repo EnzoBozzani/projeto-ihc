@@ -1,7 +1,7 @@
 # Analise de Tarefas
 ---
 
-## Cadastrar Fluxo
+# Tarefa 1: Cadastrar Fluxo
 
 ### HTA:
 <img width="584" height="474" alt="image" src="https://github.com/user-attachments/assets/8a14a33f-dddc-4658-977b-a51fb3406693" />  
@@ -9,9 +9,9 @@
 ---  
 
 ### GOMS:
-# GOAL 0: Cadastrar Fluxo  
+## GOAL 0: Cadastrar Fluxo  
 
-## GOAL 1: Escolher Agentes  
+### GOAL 1: Escolher Agentes  
 
 ### METHOD 1.A: Selecionar Agente já criado  
 - **Sel Rule:** o usuário deve ter um agente já criado e registrado.  
@@ -35,7 +35,7 @@
 
 
 
-## GOAL 2: Posicionar Agentes  
+### GOAL 2: Posicionar Agentes  
   - **OP 2.1:** Deslocar cursor do mouse até a caixa que representa o agente.  
   - **OP 2.2:** Conectar os agentes.  
 ---
@@ -44,11 +44,59 @@
 
 <img width="756" height="611" alt="image" src="https://github.com/user-attachments/assets/44306f4f-e95a-4848-b7b3-19e9f11eb6b9" />
 
+
 ---  
 ---  
 ---
 
-## Registrar Recurso
+# Tarefa 2: Criar um Agente
+
+### HTA:
+<img width="504" height="227" alt="image" src="https://github.com/user-attachments/assets/d56a61c2-c328-4fd4-849a-ba70c3fb34bf" />
+
+---  
+
+### GOMS:
+## GOAL 0: Criar um Agente
+
+### GOAL 1: Dar um nome para o Agente  
+
+### METHOD 1.A: Inserir nome no campo de texto  
+- **Sel Rule:** se o campo de nome estiver visível e editável.   
+  - **OP 1.A.1:** Clicar no campo de texto “Nome do agente”  
+  - **OP 1.A.2:** Digitar o nome desejado.  
+  - **OP 1.A.3:** Verificar se o nome aparece corretamente no campo.  
+
+### GOAL 2: Escolher Task e Model
+
+### METHOD 2.A: Selecionar opções nos menus suspensos
+- **Sel Rule:** se as listas de Task e Model estiverem visíveis na tela.
+  - **OP 2.A.1:** Clicar no menu suspenso “Task”.
+  - **OP 2.A.2:** Rolar a lista e selecionar a task desejada.
+  - **OP 2.A.3:** Clicar no menu suspenso “Model”.
+  - **OP 2.A.4:** Rolar a lista e selecionar o modelo desejado.
+  - **OP 2.A.5:** Verificar se as opções selecionadas aparecem nos campos
+
+### GOAL 3: Finalizar / Criar Agente
+
+### METHOD 3.A: Confirmar criação do agente
+- **Sel Rule:** se o nome, task e model estiverem preenchidos corretamente.
+  - **OP 3.A.1:** Clicar no botão “Criar agente”.
+  - **OP 3.A.2:** Aguardar mensagem de confirmação.
+  - **OP 3.A.3:** Verificar se o agente aparece na lista de agentes criados
+
+
+---
+
+### CTT  
+<img width="743" height="344" alt="image" src="https://github.com/user-attachments/assets/0236c1d1-0b34-4cc8-9d77-12f630003f1b" />
+
+
+---
+---
+---
+
+## Tarefa 3: Registrar Recurso
 
 ### HTA  
 

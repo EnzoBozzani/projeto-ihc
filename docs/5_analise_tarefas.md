@@ -96,7 +96,7 @@
 ---
 ---
 
-## Tarefa 3: Registrar Recurso
+# Tarefa 3: Registrar Recurso
 
 ### HTA  
 
@@ -106,16 +106,16 @@
 
 ### GOMS  
 
-# GOAL 0: Registrar Recursos  
+## GOAL 0: Registrar Recursos  
 
-##  GOAL 1: Selecionar o tipo de Recurso
+###  GOAL 1: Selecionar o tipo de Recurso
 - **Sel Rule:** O usuario deve selecionar um tipo de recurso disponível 
   - **OP 1.1:** Deslocar cursor do mouse até a caixa de recursos.  
   - **OP 1.2:** Clicar com o botão esquerdo do mouse.  
   - **OP 1.3:** Selecionar o tipo de recurso desejado.
 
 
-## GOAL 2: Conectar Recurso
+### GOAL 2: Conectar Recurso
 - **Sel Rule:** O usuario deve conectar um recurso registrado
 
 ### METHOD 2.A: Inserir Link do Recurso 

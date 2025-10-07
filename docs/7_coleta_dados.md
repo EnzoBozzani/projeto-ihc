@@ -91,7 +91,7 @@ Permite compreender profundamente o contexto de uso e os problemas enfrentados.
 
 ### 3.3) Instrumento
 **Roteiro de Entrevista (exemplo):**  
-[Link do roteiro de entrevista (Google Docs)](https://docs.google.com/document/d/1cEntrevistaExemploIHC)
+[Link do roteiro de entrevista](https://docs.google.com/document/d/1BxSVeRfBHE_gtxocSbjx1N8MrzIqAykQkLKreqLZ6Ks/edit?usp=sharing)
 
 ---
 
@@ -112,7 +112,7 @@ Permite compreender profundamente o contexto de uso e os problemas enfrentados.
 
 ### 3.3) Instrumento
 **Formulário no Google Forms (exemplo):**  
-[Link para o questionário](https://forms.gle/exemplo-questionario-ihc)
+[Link para o questionário]([https://forms.gle/exemplo-questionario-ihc](https://docs.google.com/forms/d/e/1FAIpQLSf3dOcI7FhhZAXWgB_19BV5IBMug1VdKJyC3aWgFqMeMXINSw/viewform?usp=header))
 
 ---
 
@@ -136,7 +136,7 @@ Visa identificar padrões de comportamento e necessidades comuns.
 
 ### 3.3) Instrumento
 **Roteiro de Grupo de Foco (exemplo):**  
-[Link do roteiro (Google Docs)](https://docs.google.com/document/d/1cGrupoFocoIHCExemplo)
+[Link do roteiro (Google Docs)](https://docs.google.com/document/d/1cpRHD15JFz9-0GQ3RHFk1cEFEyWfsrcvgGZY5OFKb00/edit?usp=sharing)
 
 ---
 
@@ -156,8 +156,19 @@ Visa identificar padrões de comportamento e necessidades comuns.
 - Analisar os principais temas emergentes e funcionalidades sugeridas.
 
 ### 3.3) Instrumento
-**Mural de Brainstorming (exemplo):**  
-[Link do mural (Miro)](https://miro.com/app/board/uXjExemploBrainstormingIHC)
+**Mural de Brainstorming:**  
+| Categoria          | Ideia                                                                         | Justificativa                                 |
+| ------------------ | ----------------------------------------------------------------------------- | --------------------------------------------- |
+| **Usabilidade**    | Tutorial interativo inicial (“tour guiado”)                                   | Facilitar adoção por usuários não técnicos    |
+| **Produtividade**  | Templates prontos de automação (ex: “gerar relatório diário”)                 | Reduz curva de aprendizado                    |
+| **Colaboração**    | Compartilhamento de fluxos entre equipes                                      | Permite que empresas usem fluxos padronizados |
+| **IA e agentes**   | Assistente inteligente que sugere conexões entre agentes                      | Acelera criação de fluxos complexos           |
+| **Integrações**    | Conexão nativa com Google Drive, e-mail, bancos de dados                      | Aumenta aplicabilidade em empresas            |
+| **Confiabilidade** | Logs e histórico de execuções com status visual                               | Melhora confiança no sistema                  |
+| **Visualização**   | Painel de métricas de desempenho (tempo economizado, execuções bem-sucedidas) | Valoriza resultados e retorno do investimento |
+| **Personalização** | Opção de modo escuro e layout ajustável                                       | Melhora conforto visual                       |
+| **Suporte**        | Chat embutido para dúvidas rápidas                                            | Reduz fricção na experiência do usuário       |
+
 
 ---
 

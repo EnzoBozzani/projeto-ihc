@@ -23,3 +23,5 @@
 ![pagina 6](https://github.com/user-attachments/assets/b4b40135-4dcc-46d9-8ae1-3642cd263ed8)  
 - Página de criação e edição de fluxo com agentes inclusos
   
+<img width="1193" height="840" alt="image" src="https://github.com/user-attachments/assets/9ce6d9c2-e568-4f3b-b05e-28834068e077" />
+- Página de chat para teste de fluxos

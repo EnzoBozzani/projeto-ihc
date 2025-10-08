@@ -112,7 +112,7 @@ Permite compreender profundamente o contexto de uso e os problemas enfrentados.
 
 ### 3.3) Instrumento
 **Formulário no Google Forms (exemplo):**  
-[Link para o questionário]([https://forms.gle/exemplo-questionario-ihc](https://docs.google.com/forms/d/e/1FAIpQLSf3dOcI7FhhZAXWgB_19BV5IBMug1VdKJyC3aWgFqMeMXINSw/viewform?usp=header))
+[Link para o questionário](https://docs.google.com/forms/d/e/1FAIpQLSf3dOcI7FhhZAXWgB_19BV5IBMug1VdKJyC3aWgFqMeMXINSw/viewform?usp=header)
 
 ---
 

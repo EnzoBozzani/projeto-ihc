@@ -43,7 +43,7 @@ Quando uma transportadora apresenta atraso ou dados incompletos, o sistema notif
 | **> Execução do fluxo**   | U: Execute o fluxo                                                                                 |
 |                           | D: Fluxo iniciado. Monitorando agentes...                                                          |
 | **> Envio de resultados** | U: Enviar o **relatório** final aos **destinatários**                                              |
-|                           | **D:** Resultado enviado com sucesso                                                               |              
+|                           | D: Resultado enviado com sucesso                                                                   |              
 
 
 | **Tópico > Subtópico**        | **Falas e signos**                                                                                                           |
@@ -82,3 +82,37 @@ Quando uma transportadora apresenta atraso ou dados incompletos, o sistema notif
 |                             | D: A melhor opção encontrada é da transportadora Z. Prazo dentro do limite e risco considerado baixo.               |
 | **> Decisão final**         | U: Confirmar contratação da transportadora Z                                                                        |
 |                             | D: Contratação registrada com sucesso. Deseja salvar este fluxo para futuras negociações automáticas?               |
+
+# Mapa de Objetivos
+
+<img width="820" height="517" alt="image" src="https://github.com/user-attachments/assets/c74bed56-4ae7-4344-8e03-1ab0be602b68" />
+
+# Esquema Conceitual de Signos  
+
+| **SIGNO** | **ORIGEM** | **OBSERVAÇÕES** | **TIPO DE CONTEÚDO** | **RESTRIÇÃO SOBRE CONTEÚDO** | **VALOR DEFAULT** | **PREVENÇÃO** | **RECUPERAÇÃO** |
+|-----------|------------|-----------------|-----------------------|------------------------------|-------------------|----------------|-----------------|
+| fluxo | aplicação | Estrutura de execução de agentes | entidade estrutural | Deve conter pelo menos 1 agente | fluxo_vazio | PA (impede iniciar sem agentes) | RA (oferece criar agente automaticamente) |
+| agente | aplicação | Unidade autônoma configurável | entidade funcional | Nome único e função definida | agente_1 | PP (dica sobre finalidade) | RA (sugerir outro nome ou função válida) |
+| modelo | aplicação | Base de especialização do agente | parâmetro configurável | Compatível com a tarefa definida | modelo_padrão | AL (alerta de incompatibilidade) | RA (sugerir alternativas) |
+| tarefa | aplicação | Ação a ser executada pelo agente | comando | Deve pertencer ao escopo do sistema | nenhuma | AL (solicita definir tarefa) | RA (lista tarefas disponíveis) |
+| log | aplicação | Registros de execução | dado do sistema | Formato padrão (JSON/texto) | habilitado | PP (explica formato) | RA (indica erro de leitura e orienta correção) |
+| resultado | aplicação | Saída gerada pelos agentes | dado sintetizado | Dependente da tarefa | tabela padrão | PP | RA |
+| recurso | aplicação | Dado externo usado pelo agente | entidade vinculada | Deve ser válido (link/arquivo) | último recurso usado | AL | RA |
+| dependência | aplicação | Biblioteca ou pacote necessário | requisito técnico | Versão compatível | versão recomendada | PA (impede versões inválidas) | RA (oferece correção automática) |
+| retorno do sistema | aplicação | Resposta às ações do usuário | feedback | Deve ser apresentado de forma clara | mensagem padrão | PP | RA |
+| ambiente | domínio | Contexto real de execução | entidade conceitual | Deve ser selecionado corretamente | ambiente_científico | PP (explica opções) | CE (erro se ambiente inexistente) |
+| relatório executivo | domínio | Documento final | resultado de negócio | Deve seguir padrão da empresa | modelo empresa | AL (alerta de inconsistência) | RA (oferece correção automática) |
+| indicadores | domínio | Métricas financeiras ou científicas | dado interpretativo | Somente valores numéricos válidos | últimos valores registrados | PA | RA |
+| diretoria | domínio | Destinatários de relatório | ator humano | E-mail válido | último grupo usado | PA | CE (se contato inválido) |
+| sistemas internos | domínio | Fontes de dados reais | entidade | Devem estar conectadas | conexão mais recente | AL | CE |
+| inconsistências | domínio | Erros de dados reais | estado | Detectadas automaticamente | sem inconsistência | AL | RA |
+| simulação | domínio científico | Método de validação | processo | Requer agentes científicos configurados | modo padrão | AL | RA |
+| consolidação financeira | domínio financeiro | Ação de unir dados | tarefa do domínio | Requer fonte válida | consolidar automaticamente | PP | RA |
+| validação de dados | domínio financeiro | Confirmação de consistência | processo | Requer regras de integridade | automática | AL | RA |
+| destinatários | domínio | Público que recebe o resultado | ator | Dados de contato válidos | último destinatário | PA | CE |
+| cotação | domínio logístico | Valor de transporte | dado transacional | Numérico obrigatório | atualizado automaticamente | AL | RA |
+| risco logístico | domínio logístico | Probabilidade de falha | métrica | Alto, médio ou baixo | médio | PP | RA |
+| custo-benefício | domínio logístico | Comparação entre propostas | métrica derivada | Calculado pelo sistema | automático | PP | RA |
+| prazo de entrega | domínio logístico | Tempo de transporte | métrica real | Formato data/hora | imediato | AL | RA |
+| transportadora | domínio logístico | Agente humano/empresa | entidade | Deve estar cadastrada | última utilizada | AL | RA |
+| cliente | domínio logístico | Parte interessada | ator | Identificação válida | cliente_padrão | PP | CE |

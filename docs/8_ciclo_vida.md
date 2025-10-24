@@ -1,17 +1,17 @@
 **CICLO DE VIDA DE ENGENHARIA DE USABILIDADE**
 
 
-1. **Características da Plataforma**  
+1. **Análise das capacidades e restrições da plataforma (Características da Plataforma)**  
    
 
 | Característica | Descrição |
 | :---- | :---- |
-| Descrição do Software |  |
-| Descrição do Hardware |  |
-| LISTA DE Capacidades da Plataforma (com explicação) |  |
-| LISTA DE Restrições da Plataforma (com explicação) |  |
+| Descrição do Software | A camada de software é o núcleo funcional do projeto, composta por uma integração modular de frameworks e ferramentas. Segue uma arquitetura modular e escalável, permitindo a separação entre: camada de visualização (frontend), camada de controle e orquestração (backend) e camada de persistência (bancos de dados). |
+| Descrição do Hardware | A plataforma de hardware foi concebida para permitir a execução local de modelos de linguagem de médio porte, com eficiência e baixo custo computacional. Tem como características a compatibilidade com CPU e GPU para inferência local, capacidade de armazenamento suficiente para bancos de dados MongoDB (NoSQL) e Neo4j (grafos) e infraestrutura modular, sem dependência de servidores em nuvem. |
+| LISTA DE Capacidades da Plataforma (com explicação) | -> Acessibilidade e Usabilidade - Interface gráfica simples que dispensa conhecimento técnico de programação. <br> -> Execução Local e Autonomia - Utilização do Ollama permite rodar modelos LLM em computadores pessoais, reduzindo custos com nuvem. <br> -> Integração - Capacidade de conectar APIs externas via MCP <br> -> Avaliação Inteligente (LLM-as-a-Judge) - Implementação de um sistema automático de avaliação de desempenho dos fluxos, com feedback textual gerado por um modelo externo.|
+| LISTA DE Restrições da Plataforma (com explicação) | -> Limitação de Desempenho - Modelos de menor porte possuem menor capacidade de raciocínio e contexto em comparação com LLMs de grande escala (como GPT-4). <br> -> Escalabilidade Limitada - A arquitetura local não é ideal para fluxos massivos ou simultâneos sem uma camada adicional de distribuição. <br> -> Segurança e Privacidade - Como a execução é local e modular, requer configuração cuidadosa de permissões e autenticações (principalmente no uso de APIs externas via MCP). |
 
-2. **Princípios Gerais do Projeto (INCREMENTAR TABELA)**     
+2. **Princípios Gerais do Projeto**     
 
 | Nome | Descrição | Link |
 | :---- | :---- | :---- |

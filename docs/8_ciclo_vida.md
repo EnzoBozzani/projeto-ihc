@@ -17,6 +17,8 @@
 | :---- | :---- | :---- |
 | Lei Geral de Proteção de Dados (LGPD) \- Lei n.º 13.709/2018 | A LGPD é a legislação brasileira que regulamenta o tratamento de dados pessoais no Brasil. É importante para o projeto porque estabelece regras sobre como os dados dos usuários devem ser coletados, armazenados, processados e protegidos, garantindo sua privacidade e segurança. | [https://www.planalto.gov.br/ccivil\_03/\_ato2015-2018/2018/lei/l13709.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) |
 | ABNT NBR ISO 9241 Ergonomia da interação humano-sistema |  Esta série de normas brasileiras, baseadas nas normas ISO 9241, fornece diretrizes e orientações para o design centrado no usuário de sistemas interativos, incluindo a concepção de interfaces de usuário. A parte 210 aborda o processo de design centrado no humano, enquanto a parte 11 fornece orientações específicas sobre usabilidade. Essas normas são importantes para o projeto porque estabelecem princípios e métodos para garantir que a interface do usuário atenda às necessidades e expectativas dos usuários. | [https://www.inf.ufsc.br/\~edla.ramos/ine5624/\_Walter/Normas/Parte%2011/iso9241-11F2.pdf](https://www.inf.ufsc.br/~edla.ramos/ine5624/_Walter/Normas/Parte%2011/iso9241-11F2.pdf) |
+| Marco Civil da Internet – Lei nº 12.965/2014 + Decreto nº 8.771/2016 | Define direitos e deveres no uso da internet no Brasil, incluindo proteção de dados, neutralidade de rede e responsabilidade de provedores. É aplicável ao projeto pois regula o uso de plataformas online e o tratamento de informações trafegadas entre usuários e sistemas de IA. | https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm?utm_source=chatgpt.com |
+| NIST AI RMF / ISO 23894 / ISO 42001 | Conjunto de normas internacionais que orientam a gestão de risco, governança e boas práticas em Inteligência Artificial. São aplicáveis ao projeto porque estabelecem padrões para desenvolvimento ético e seguro de sistemas baseados em IA, como os agentes e fluxos automatizados. | https://www.nist.gov/itl/ai-risk-management-framework / https://www.iso.org/standard/77304.html / https://www.iso.org/standard/42001.html |
 
    
 
@@ -31,9 +33,9 @@
     
 | Metas | Porcentagem | Justificativa |
 | ----- | :---- | :---- |
-| Facilidade de … |  |  |
-|  |  |  |
-|  |  |  |
-|  | 1% |  |
-|  | 20% |  |
-| **Total** | **100%** |  |
+| Facilidade de memorização | 15% | Como o processo de aprendizado é simples e rápido, não há grande necessidade de o usuário memorizar etapas complexas. Mesmo após um tempo sem uso, a interface intuitiva e os elementos visuais facilitam a retomada imediata das atividades. |
+| Facilidade de aprendizado | 25% | A plataforma deve ser intuitiva e acessível a usuários sem conhecimento técnico. Por isso, a curva de aprendizado precisa ser mínima, permitindo que o usuário entenda rapidamente como criar e configurar agentes e fluxos. |
+| Eficiência | 25% | O desempenho e a agilidade no uso da interface e execução dos fluxos são cruciais para que os usuários percebam valor e produtividade no sistema. A eficiência está diretamente ligada à proposta central do projeto. |
+| Baixa taxa de erro | 15% | Embora essencial, os erros podem ser mitigados com feedbacks claros e validações automáticas. O foco está em reduzir falhas sem comprometer a liberdade do usuário ao montar fluxos complexos. |
+| Satisfação positiva do usuário | 20% | A percepção de utilidade, fluidez e design impacta diretamente a adoção da plataforma. Uma experiência agradável garante maior engajamento e retorno positivo. |
+| **Total** | **100%** | / |

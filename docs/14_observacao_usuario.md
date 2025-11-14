@@ -52,6 +52,8 @@ O ambiente foi preparado para garantir uma sessão de avaliação consistente:
 - Será utilizado um **computador de mesa** com monitor e mouse.  
 - Um **gravador de tela** ficará ativo durante todo o teste (com consentimento).  
 - O avaliador estará presente, mas não interferirá — apenas observará e registrará.
+- Terá um banco de dados configurado sintéticamente para teste
+- Terá um arquivo com regras de negócio referente a multas criado sintéticamente
 
 Esse ambiente assegura que toda a interação seja registrada e que não haja interferências externas durante o teste.
 

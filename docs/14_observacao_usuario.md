@@ -88,3 +88,21 @@ Durante o teste, serão registrados:
 - Respostas ao formulário pós-teste (percepção de facilidade, satisfação, etc.)
 
 Esses dados permitirão gerar um relatório de avaliação completo e fundamentado.
+
+# Resultado dos Testes
+
+| Tarefa | Sucesso | Total de Erros Cometidos | Tipos de Erros | Tempo Necessario | Grau de Satisfação |
+|--------|---------|--------------------------|----------------|------------------|--------------------|
+| Criar Agentes | Sim | 0 | | 1:07 minutos | Alta |
+| Criar Fluxo   | Sim | 0 | | 50 segundos | Alta |
+| Teste do Fluxo | Sim | 0 | | 2 minutos | Alta |
+
+Link do video: https://youtu.be/cGfPSqOCk2M
+
+# Conclusáo
+A avaliação de usabilidade conduzida por meio de observação evidenciou que o sistema apresenta uma interface clara, direta e funcional, permitindo que os usuários executem suas tarefas principais sem dificuldades.
+Entre os aspectos positivos, destacaram-se a navegação simples, o design limpo e a sensação de confiança durante o uso da plataforma. Os fluxos de interação mostraram-se compatíveis e adequados ao contexto de utilização do sistema.
+
+Foram identificadas também algumas oportunidades de aprimoramento, especialmente relacionadas ao refinamento de determinados fluxos, ao reforço dos elementos de feedback visual e à adição de recursos de acessibilidade que possibilitem atender um público mais diverso.
+
+De forma geral, os resultados indicam que o sistema já possui uma boa estrutura de usabilidade, e que as melhorias sugeridas poderão tornar a experiência do usuário ainda mais eficiente, inclusiva e satisfatória.

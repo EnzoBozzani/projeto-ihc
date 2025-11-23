@@ -4,3 +4,6 @@
 
 ### Nome do Cenário: Projetos
 <img width="1283" height="661" alt="image" src="https://github.com/user-attachments/assets/109ad3c9-440c-4340-a531-bf3cc98398b2" />
+
+### Nome do Cenário: Testes
+<img width="1272" height="649" alt="image" src="https://github.com/user-attachments/assets/53cf9c6d-5e23-4fe2-b84e-56b1387e4bae" />

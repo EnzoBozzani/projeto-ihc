@@ -26,7 +26,25 @@
 
    1. **Qualitativo**
 
-    
+   **Requisitos Funcionais de Interface**
+   
+   O sistema deve permitir o cadastro, edição e duplicação de agentes com formulários simples e templates pré-configurados. A criação de projetos deve ocorrer em uma interface visual de arrastar e soltar (drag-and-drop), conectando nós representativos de agentes, ferramentas e dados. Cada nó deve ter cor ou ícone distinto, e as conexões indicarão a lógica de execução. Deve haver painel de execução com indicadores de progresso, mensagens em tempo real e opções de pausar, reiniciar ou visualizar logs. O gerenciamento de recursos externos (APIs, bancos de dados, documentos) deve ser intuitivo, com testes de integração e adição segura de credenciais. Por fim, o sistema deve oferecer módulo de avaliação automática com métricas de precisão, eficiência e coerência dos projetos.
+   
+   **Requisitos de Usabilidade e Acessibilidade**
+   
+   A navegação deve ser intuitiva, com menu lateral fixo e feedback visual imediato para ações. Mensagens de erro precisam ser claras e sugerir correções. O design deve seguir padrões consistentes de cores, ícones e tipografia. A interface deve ser compatível com teclado e leitor de tela, ter contraste adequado, linguagem simples e ser responsiva para desktop e tablets.
+   
+   **Requisitos de Compatibilidade e Desempenho**
+   
+   A interface deve funcionar localmente via navegador, sem depender de servidores remotos. A arquitetura precisa ser leve e modular, suportando execução simultânea de modelos no Ollama, com carregamento progressivo (lazy loading) e desempenho fluido mesmo em projetos complexos.
+   
+   **Requisitos de Segurança e Privacidade**
+   
+   O sistema deve ter autenticação segura com níveis de permissão e indicar claramente conexões externas ativas. Deve alertar sobre compartilhamento de dados ou uso de modelos externos e armazenar informações sensíveis localmente, sempre com consentimento do usuário.
+   
+   **Requisitos Estéticos e de Experiência**
+   
+   O visual deve ser minimalista, profissional e coerente com um ambiente técnico e científico. Ícones e microanimações devem dar fluidez às interações, com paleta de cores neutras (cinza, azul e verde claro) e tipografia legível como Inter, Roboto ou Open Sans.
 
 
    2. **Quantitativo**  
